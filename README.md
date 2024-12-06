@@ -1,3 +1,4 @@
+
 # DSA in C
 
 Data Structures and algorithms in C
@@ -22,7 +23,27 @@ This repository contains implementations of various data structures and algorith
 To get started, clone the repository:
 ```bash
 git clone https://github.com/Arison99/DSA-in-c.git
+```
 
-USAGE
-
+## Usage
 Navigate to the directory and compile the C files using a C compiler:
+```bash
+cd DSA-in-c
+gcc -o program filename.c
+./program
+```
+
+## Contributing
+Contributions are welcome! Please follow these steps:
+1. Fork the repository.
+2. Create a new branch (`git checkout -b feature-branch`).
+3. Commit your changes (`git commit -m 'Add some feature'`).
+4. Push to the branch (`git push origin feature-branch`).
+5. Open a pull request.
+
+## License
+This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
+
+## Contact
+For any questions or suggestions, feel free to reach out:
+- GitHub: [Arison99](https://github.com/Arison99)
