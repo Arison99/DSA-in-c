@@ -22,3 +22,7 @@ This repository contains implementations of various data structures and algorith
 To get started, clone the repository:
 ```bash
 git clone https://github.com/Arison99/DSA-in-c.git
+
+USAGE
+
+Navigate to the directory and compile the C files using a C compiler:
